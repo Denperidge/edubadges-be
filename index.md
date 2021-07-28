@@ -39,27 +39,18 @@ if you want to not have a newline
 
 Go to your page (https://github.com/osoc21/edubadges-be) and press Add File > Upload Files
 
-<style>
-call-this-something-else {
-    float: right;
-}
-</style>
 
-<call-this-whatever>
-Here's some text
+Text to the left
 
-Lorem
+<span style="float: right;">
+And text to the right!
+</span>
 
-Ipsum
-</call-this-whatever>
+Text to the left
+<span style="margin-left: 20px;">
+Text a bit less to the left
+</span>
 
-<call-this-something-else>
-Here's some text
-
-Lorem
-
-Ipsum
-</call-this-something-else>
 
 
 Select the images, and then you can link them like so:
