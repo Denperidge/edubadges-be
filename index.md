@@ -41,7 +41,7 @@ Go to your page (https://github.com/osoc21/edubadges-be) and press Add File > Up
 
 <style>
 call-this-something-else {
-    float: left;
+    float: right;
 }
 </style>
 
